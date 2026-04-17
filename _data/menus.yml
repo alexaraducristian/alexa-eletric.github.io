@@ -1,0 +1,17 @@
+main:
+  - name: Acasă
+    url: /
+  - name: Prezentare
+    url: /prezentare/
+  - name: Portofoliu
+    url: /portofoliu/
+  - name: Contact
+    url: /contact/
+
+footer:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "Contact"
+    url: "/contact/"
+    weight: 2

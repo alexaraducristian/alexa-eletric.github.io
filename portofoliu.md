@@ -3,16 +3,25 @@ layout: default
 title: Portofoliu Lucrări
 ---
 
+[Acasă]({{ site.baseurl }}/) | [Prezentare]({{ site.baseurl }}/prezentare) | **Portofoliu** | [Contact]({{ site.baseurl }}/contact)
+
+---
 # Proiecte Realizate
 
-Iată câteva dintre sistemele fotovoltaice instalate recent. Calitatea execuției este prioritatea mea.
+Aici poți vedea o selecție a lucrărilor executate recent de echipa noastra.
 
-### 1. Sistem On-Grid 5kW - Locație: Iași
-![Sistem 5kW](/assets/img/lucrare1.jpg)
-*Montaj complet pe acoperiș de țiglă, invertor Huawei, structură aluminiu.*
+### 🏠 Sisteme Rezidențiale
+* **Locație:** Iasi
+* **Descriere:** Modernizare tablou electric cu protecții Schneider și refacere circuite iluminat.
 
-### 2. Instalație Electrică Industrială - Locație: Depozit Logistic
-![Instalatie](/assets/img/lucrare2.jpg)
-*Refacere tablou electric general și automatizare.*
+### 🏭 Sisteme Fotovoltaice 5kW
+* **Locație:** Casă individuală
+* **Descriere:** Instalare panouri monocristaline și configurare invertor pentru autoconsum.
+![Sistem de panouri fotovoltaice (poza 1)](assets/img/portofoliu-fotovoltaice-1.jpg)
+![Sistem de panouri fotovoltaice (poza 2)](assets/img/portofoliu-fotovoltaice-2.jpg)
 
-[Inapoi la Acasă](/)
+--- 
+
+[Acasă]({{ site.baseurl }}/) | [Prezentare]({{ site.baseurl }}/prezentare) | **Portofoliu** | [Contact]({{ site.baseurl }}/contact)
+
+---

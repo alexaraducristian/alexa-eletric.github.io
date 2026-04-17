@@ -1,13 +1,16 @@
 ---
-layout: page
 title: Contact
+layout: contact
+description: Contact
 ---
 
-Ești gata să treci pe energie verde? Trimite-mi un mesaj!
+Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
 
-<form action="https://formspree.io/f/meevqgbw" method="POST" style="display: flex; flex-direction: column; gap: 10px; max-width: 400px;">
-  <input type="text" name="name" placeholder="Numele tău" required>
-  <input type="email" name="email" placeholder="Email-ul tău" required>
-  <textarea name="message" placeholder="Detalii proiect (locație, putere dorită)"></textarea>
-  <button type="submit" style="background: #2ecc71; color: white; border: none; padding: 10px; cursor: pointer;">Trimite Cererea</button>
-</form>
+| Day       | Opening Hours   |
+| --------- | --------------- |
+| Tuesday   | 8:30am - 5:00pm |
+| Wednesday | 8:30am - 5:00pm |
+| Thursday  | 8:30am - 5:00pm |
+| Friday    | 8:30am - 5:00pm |
+| Saturday  | 10:am - 4:00pm  |
+| Saturday  | Closed          |
